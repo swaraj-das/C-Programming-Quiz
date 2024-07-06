@@ -1,20 +1,34 @@
-# C-Programming-Quiz
+# 📘 C-Programming-Quiz
 
 Welcome to C-Programming-Quiz! This repository contains a collection of quizzes designed to help you learn and practice C programming.
 
-## Features
+## Features 🚀
 
 - **Multiple Quizzes:** Covering various topics in C programming.
 - **Interactive:** Immediate feedback on quiz answers.
-- **Educational:** Detailed explanations for each question.
+- **Educational:** Every answer is shown to the user when they choose an incorrect alternative.
+- **Points Count:** After every question the current point updated.
 
-## Getting Started
+## Getting Started 🛠️
 
 To get started with C-Programming-Quiz, follow these steps:
 
-1. **Clone the repository:**
-   - [GitHub Repository](git clone https://github.com/swaraj-das/C-Programming-Quiz.git)
-   - [Email Me](mailto:swarajdas625w@gmail.com)
+**>> Clone the repository:**
+- `git clone https://github.com/swaraj-das/C-Programming-Quiz.git`
 
+**>> Change directory:**
+- `cd C-Programming-Quiz`
 
-Make sure to replace `[your-email@example.com](mailto:your-email@example.com)` with your actual email address or preferred contact information. After updating the `README.md` file with this content, save it, commit it to your local repository, and then push it to GitHub. This will update your repository with the complete README file.
+**>> Compile the Quiz.c file:**
+- Compile the `Quiz.c` file using your preferred C compiler.
+
+**>> Run the Quiz.exe or Quiz.out file:**
+- Execute the compiled executable (`Quiz.exe` for Windows or `Quiz.out` for Unix/Linux).
+  
+
+## Contact 📧
+If you have any questions or suggestions, feel free to reach out to me at 
+**[swarajdas625w@gmail.com](mailto:swarajdas625w@gmail.com)**
+
+***Happy learning and coding! 🌟***
+
